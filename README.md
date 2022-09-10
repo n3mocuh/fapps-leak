@@ -7,4 +7,3 @@ theres no installer for all the modules u have to do it yourself but like dont e
 
 ## credits
 - the king (me)
-- demented
