@@ -1,6 +1,6 @@
 {
-	"nc_request_amount": 3,
-	"gc_request_amount": 2,
-	"announce_webhook": "",
-	"private_log_webhook": ""
+    "nc_request_amount": 3,
+    "gc_request_amount": 2,
+    "webhook_url": "",
+    "webhook_for_times": ""
 }
